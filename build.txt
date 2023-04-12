@@ -1,0 +1,3 @@
+displayName = Playground Testing Mod
+author = Dimanari
+version = 0.1
